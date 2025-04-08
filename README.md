@@ -1,12 +1,10 @@
 # CKGAN: Training Generative Adversarial Networks Using Characteristic Kernel Integral Probability Metrics
 
----
+Authors: Kuntian Zhang, Simin Yu, Yaoshu Wang, Onizuka Makoto, and Chuan Xiao
 
 ## Setup
 
----
-
-## Dependencies
+### Dependencies
 
 - Python            3.6.9
 - Tensorflow      2.2
@@ -19,7 +17,7 @@
 
 The GPU compatible version of tensorflow is required for this code to work.
 
-## Datasets
+### Datasets
 
 Datasets can be downloaded from this [Google Drive](https://drive.google.com/drive/folders/137ziG0n7XzReYhQBZRD4i4ACpxZPRTU2?usp=sharing) link.
 
